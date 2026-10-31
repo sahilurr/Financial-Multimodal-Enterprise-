@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this software in your research or systems, please cite it using the metadata below."
+type: software
+title: "Multimodal Financial Document Intelligence & Hybrid RAG Engine"
+abstract: >
+  Multimodal Hybrid RAG system for financial document analysis (SEC 10-K, 10-Q, earnings releases).
+  Combines layout-aware chunking, vision-LLM chart extraction, BM25 + Dense Reciprocal Rank Fusion (RRF),
+  Maximal Marginal Relevance (MMR) diversity filtering, cross-encoder reranking, Program-of-Thought (PoT)
+  numeric guardrails, and level-aware generation checks.
+version: 2.1.0
+date-released: "2026-08-15"
+url: "https://github.com/sahilurkhan/RAG-Multimodal-Financial-Doc-Analysis-and-Recall"
+repository-code: "https://github.com/sahilurkhan/RAG-Multimodal-Financial-Doc-Analysis-and-Recall"
+license: MIT
+keywords:
+  - rag
+  - retrieval-augmented-generation
+  - hybrid-search
+  - reciprocal-rank-fusion
+  - maximal-marginal-relevance
+  - financial-documents
+  - multimodal
+authors:
+  - family-names: "Khan"
+    given-names: "Sahilur"
